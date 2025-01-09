@@ -1,0 +1,10 @@
+@import 'bootstrap/scss/functions';
+
+@import './variables';
+
+@import 'bootstrap/scss/bootstrap';
+
+.images {
+    height: 150px;
+    margin-right: 5px; /* 加點邊距 */
+}
